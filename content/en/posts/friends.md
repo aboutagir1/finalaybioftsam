@@ -8,7 +8,7 @@ author: "Lozza & Abs"
 draft: false
 ---
 <!-- introduction -->
-We are learning things and talking about the more
+We are learning things and talking about them more
 <!--more-->
 <!-- rest of the content -->
 It is fun!
