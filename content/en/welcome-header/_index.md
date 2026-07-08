@@ -10,5 +10,5 @@ list:
   items: 
     - "life"
     - "philosophy"
-    - "art"
+    - "learning"
 ---

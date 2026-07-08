@@ -1,10 +1,10 @@
 ---
-title: "mysterious meow"
+title: "more stuff"
 date: "2025-02-01T10:00:00-03:00"
 tags: ["meow",]
 title-images: 
 ending-images: 
-author: "mochi"
+author: "Lozza & Abs"
 draft: false
 table-of-contents: true
 toc-auto-numbering: true
