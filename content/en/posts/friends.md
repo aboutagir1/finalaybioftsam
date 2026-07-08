@@ -2,8 +2,8 @@
 title: "we are alive (aybitsam)!"
 date: "2026-06-20"
 tags: ["alive"]
-title-images: ["/photo1.png", "/photo2.png",]
-ending-images: ["/photo3.png", "/photo4.png", "/photo5.png",]
+title-images: 
+ending-images: 
 author: "Lozza & Abs"
 draft: false
 ---
