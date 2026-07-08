@@ -1,3 +1,6 @@
+baseURL = 'https://aboutagir1.github.io/finalaybioftsam/'
+relativeURLs = true
+
 [module]
   [module.hugoVersion]
     extended = true
