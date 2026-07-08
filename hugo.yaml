@@ -1,6 +1,6 @@
 title: "are your boring ideas the same as mine?"
 baseURL: "https://aboutagir1.github.io/finalaybioftsam/"
-relativeURLs: true
+canonifyURLs: true
 languageCode: 'en-us'
 defaultContentLanguage: "en"
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
